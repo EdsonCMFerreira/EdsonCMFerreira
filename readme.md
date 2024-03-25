@@ -73,18 +73,29 @@ Focado em resultados.
 
 Experiência profissional:
 
-Selique Tech (Analista de Sistemas Sênior)
-Goop (Programador de Sistemas de Informação)
-Ka Solution (Analista de Sistemas Full Stack)
-Itaú Unibanco (Analista de Sistemas Sênior)
-Telefônica Brasil (Analista de Sistemas C# .Net)
-King Kibs (Analista de Sistemas)
-Comlink Solutions and Technology in Supply Chain (Analista Programador)
-Petrobras (Analista Consultor)
-Cadmus IT Solutions (Analista Consultor)
-SAMSUNG SDS (Analista Consultor)
-Prodesp (Analista Consultor)
-Sonda Procwork Informatica (Analista de Sistemas)
+- Selique Tech (Analista de Sistemas Sênior)
+  
+- Goop (Programador de Sistemas de Informação)
+  
+- Ka Solution (Analista de Sistemas Full Stack)
+  
+- Itaú Unibanco (Analista de Sistemas Sênior)
+  
+- Telefônica Brasil (Analista de Sistemas C# .Net)
+  
+- King Kibs (Analista de Sistemas)
+  
+- Comlink Solutions and Technology in Supply Chain (Analista Programador)
+  
+- Petrobras (Analista Consultor)
+  
+- Cadmus IT Solutions (Analista Consultor)
+  
+- SAMSUNG SDS (Analista Consultor)
+  
+- Prodesp (Analista Consultor)
+  
+- Sonda Procwork Informatica (Analista de Sistemas)
 
 
 Formação acadêmica:

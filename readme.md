@@ -1,4 +1,4 @@
-Sou Edson Carlos de Melo Ferreira, desenvolvedor C# .NET com mais de 15 anos de experiência em TI, sempre buscando soluções inovadoras para empresas públicas e privadas.
+Sou Edson Carlos de Melo Ferreira 😂, desenvolvedor C# .NET com mais de 15 anos de experiência em TI, sempre buscando soluções inovadoras para empresas públicas e privadas.
 
 Especialidades:
 

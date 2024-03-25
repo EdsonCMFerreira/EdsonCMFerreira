@@ -39,17 +39,24 @@ Especialidades:
 Habilidades:
 
 Back-end: C# .Net, ASP .NET Core, MVC, Razor, ASP 1.0, ASP 3.0, Node.js, Python, Visual Basic 6.0
+
 Banco de Dados: ETL, SQL Server, MongoDB, Oracle, MySQL e MariaDB, PL/SQL, Microsoft 365
+
 Front-end: HTML5, CSS3, SASS, JavaScript, jQuery e AngularJS
+
 Controle de Versão: Git, GitHub e TFS
+
 Infraestrutura em Nuvem (DevOps): Implementação e gerenciamento de Azure e AWS
+
 Administração de Rede: Foco em governança e segurança
+
 Virtualização: Docker, Kubernetes e Terraform.
 
 
 Realizações:
 
 Aumento da eficiência operacional em 20% no setor financeiro.
+
 Manutenção de ERP com melhorias e aumento de 15% na produtividade.
 
 

@@ -20,7 +20,10 @@ Olá, eu sou Edson Carlos de Melo Ferreira 😂.
 <div style="display: inline_block">
   <a ref="https://www.youtube/channel/Uc_-uuuZby0AAt9CV1Nzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a ref="https://discord.gg/G9GPg55A75" target="_blank"><img src="https://img.shields.io/badge/Discord-7278DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a ref="mailto:edsoncarlosdemeloferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="mailto:edsoncarlosdemeloferreira@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Link" target="_blank">
+</a>
+
   <a ref="https://linkedin/in/EdsonCMFerreira2021" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div><br></div>    

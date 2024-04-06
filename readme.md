@@ -18,19 +18,25 @@ Olá, eu sou Edson Carlos de Melo Ferreira 😂.
 <div><br></div>    
 
 <div style="display: inline_block">
-  <a ref="https://www.youtube/channel/Uc_-uuuZby0AAt9CV1Nzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a ref="https://discord.gg/G9GPg55A75" target="_blank"><img src="https://img.shields.io/badge/Discord-7278DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="mailto:edsoncarlosdemeloferreira@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Link" target="_blank">
-</a>
 
- <a href="https://www.linkedin.com/in/ecmf2021/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" target="_blank">
-</a>
-
-<a href=mailto:edsoncarlosdemeloferreira@gmail.com>Clique aqui para nos enviar um e-mail!</a>
-
+  <a ref="https://www.youtube/channel/Uc_-uuuZby0AAt9CV1Nzvc-Q" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  
+  <a ref="https://discord.gg/G9GPg55A75" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7278DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="mailto:edsoncarlosdemeloferreira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Link" target="_blank">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ecmf2021/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" target="_blank">
+  </a>
+  
 </div>
+
 <div><br></div>    
 
 Desenvolvedor C# .NET com mais de 15 anos de experiência em TI, sempre buscando soluções inovadoras para empresas públicas e privadas.

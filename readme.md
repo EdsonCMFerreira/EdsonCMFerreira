@@ -28,7 +28,7 @@ Olá, eu sou Edson Carlos de Melo Ferreira 😂.
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" target="_blank">
 </a>
 
-<a href=mailto:<nowiki>edsoncarlosdemeloferreira@gmail.com?subject="link HTML">Clique aqui para nos enviar um e-mail!</a>
+<a href=mailto:edsoncarlosdemeloferreira@gmail.com>Clique aqui para nos enviar um e-mail!</a>
 
 </div>
 <div><br></div>    
